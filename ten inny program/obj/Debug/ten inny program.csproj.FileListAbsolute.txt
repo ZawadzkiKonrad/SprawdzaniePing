@@ -1,0 +1,29 @@
+C:\Users\MDKrauzer\source\repos\ten inny program\ten inny program\bin\Debug\ten inny program.exe.config
+C:\Users\MDKrauzer\source\repos\ten inny program\ten inny program\bin\Debug\ten inny program.exe
+C:\Users\MDKrauzer\source\repos\ten inny program\ten inny program\bin\Debug\ten inny program.pdb
+C:\Users\MDKrauzer\source\repos\ten inny program\ten inny program\obj\Debug\ten_inny_program.Form1.resources
+C:\Users\MDKrauzer\source\repos\ten inny program\ten inny program\obj\Debug\ten_inny_program.Properties.Resources.resources
+C:\Users\MDKrauzer\source\repos\ten inny program\ten inny program\obj\Debug\ten inny program.csproj.GenerateResource.cache
+C:\Users\MDKrauzer\source\repos\ten inny program\ten inny program\obj\Debug\ten inny program.csproj.CoreCompileInputs.cache
+C:\Users\MDKrauzer\source\repos\ten inny program\ten inny program\obj\Debug\ten inny program.exe
+C:\Users\MDKrauzer\source\repos\ten inny program\ten inny program\obj\Debug\ten inny program.pdb
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\bin\Debug\ten inny program.exe.config
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\bin\Debug\ten inny program.exe
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\bin\Debug\ten inny program.pdb
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\obj\Debug\ten inny program.csprojAssemblyReference.cache
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\obj\Debug\ten_inny_program.Form1.resources
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\obj\Debug\ten_inny_program.Properties.Resources.resources
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\obj\Debug\ten inny program.csproj.GenerateResource.cache
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\obj\Debug\ten inny program.csproj.CoreCompileInputs.cache
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\obj\Debug\ten inny program.exe
+C:\Users\knrdz\OneDrive\Dokumenty\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\obj\Debug\ten inny program.pdb
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\bin\Debug\ten inny program.exe.config
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\bin\Debug\ten inny program.exe
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\bin\Debug\ten inny program.pdb
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\obj\Debug\ten inny program.csproj.AssemblyReference.cache
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\obj\Debug\ten_inny_program.Form1.resources
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\obj\Debug\ten_inny_program.Properties.Resources.resources
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\obj\Debug\ten inny program.csproj.GenerateResource.cache
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\obj\Debug\ten inny program.csproj.CoreCompileInputs.cache
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\obj\Debug\ten inny program.exe
+C:\Users\48797\Documents\C#\aplikacje sieciowe 21.05.2020 repos\ten inny program\ten inny program\obj\Debug\ten inny program.pdb
